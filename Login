@@ -1,0 +1,7 @@
+To ensure the login page is available.
+To validate the username and password with correct values.
+To validate with incorrect username and correct password.
+To validate with correct username and incorrect password.
+To validate the username and password with incorrect values.
+To ensure the submit button is available.
+To validate the submit button is clicking or not.
