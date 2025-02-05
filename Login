@@ -4,4 +4,5 @@ To validate with incorrect username and correct password.
 To validate with correct username and incorrect password.
 To validate the username and password with incorrect values.
 To ensure the submit button is available.
-To validate the submit button is clicking or not.
+To validate the submit button is clicking properly and responding.
+To validate the submit button is not clicking properly and not responding.
